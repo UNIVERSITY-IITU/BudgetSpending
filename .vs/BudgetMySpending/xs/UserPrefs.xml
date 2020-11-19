@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{874BF01A-86E2-402D-B7A5-E62999877AE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetMySpending/Views/Home/Details.cshtml">
+    <Files>
+      <File FileName="BudgetMySpending/appsettings.json" Line="3" Column="45" />
+      <File FileName="BudgetMySpending/ScaffoldingReadme.txt" />
+      <File FileName="BudgetMySpending/Program.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Startup.cs" Line="34" Column="35" />
+      <File FileName="BudgetMySpending/Controllers/AdminController.cs" />
+      <File FileName="BudgetMySpending/Data/ApplicationDbContext.cs" />
+      <File FileName="BudgetMySpending/Models/ViewModels/HomeCalculateViewModel.cs" />
+      <File FileName="BudgetMySpending/Views/Admin/Index.cshtml" />
+      <File FileName="BudgetMySpending/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml" />
+      <File FileName="BudgetMySpending/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/Budget.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/EFBudgetRepository.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/EFExpenseRepository.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/Expense.cs" Line="13" Column="6" />
+      <File FileName="BudgetMySpending/Models/HomeController.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/HtmlHelperExtensions.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/IBudgetRepository.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/IExpenseRepository.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/InfoDisplay.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Models/InfoInput.cs" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Views/Home/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="BudgetMySpending/Views/Home/Details.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BudgetMySpending" expanded="True">
+            <Node name="BudgetMySpending" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Areas" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Admin" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Details.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BudgetMySpending PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
