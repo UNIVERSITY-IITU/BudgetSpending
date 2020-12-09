@@ -12991,11 +12991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aggressiveghostsgmail.com/Downloads/AspNetCoreMvc_Budgeting_App-master/BudgetMySpending/BudgetMySpending.csproj",
+      "projectUniqueName": "/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/BudgetMySpending/BudgetMySpending.csproj",
       "projectName": "BudgetMySpending",
-      "projectPath": "/Users/aggressiveghostsgmail.com/Downloads/AspNetCoreMvc_Budgeting_App-master/BudgetMySpending/BudgetMySpending.csproj",
+      "projectPath": "/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/BudgetMySpending/BudgetMySpending.csproj",
       "packagesPath": "/Users/aggressiveghostsgmail.com/.nuget/packages/",
-      "outputPath": "/Users/aggressiveghostsgmail.com/Downloads/AspNetCoreMvc_Budgeting_App-master/BudgetMySpending/obj/",
+      "outputPath": "/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/BudgetMySpending/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

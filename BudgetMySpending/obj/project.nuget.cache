@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PN+FsDPIe7mt/CP597+DAhjcqvbTnrum/2fVkQ9UMZZce+rqriNvrXNku4oga2IGpwZnImZ7q0mwhEtAm6Rf+Q==",
+  "dgSpecHash": "MUhnZAL5nZI1HqFoTNAZbCF8b7kyZo2VwiNOeLhkgyVizwEgNpbtr/bluMLVT5wBeTpvCSoCdYwvTuurrjhjhw==",
   "success": true,
-  "projectFilePath": "/Users/aggressiveghostsgmail.com/Downloads/AspNetCoreMvc_Budgeting_App-master/BudgetMySpending/BudgetMySpending.csproj",
+  "projectFilePath": "/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/BudgetMySpending/BudgetMySpending.csproj",
   "expectedPackageFiles": [
     "/Users/aggressiveghostsgmail.com/.nuget/packages/fontawesometoolkit/4.7.0/fontawesometoolkit.4.7.0.nupkg.sha512",
     "/Users/aggressiveghostsgmail.com/.nuget/packages/microsoft.aspnet.webapi.client/5.2.6/microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

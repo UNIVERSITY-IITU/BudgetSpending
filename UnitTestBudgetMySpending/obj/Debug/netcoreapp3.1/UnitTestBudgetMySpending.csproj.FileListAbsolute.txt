@@ -1,0 +1,4 @@
+/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/UnitTestBudgetMySpending/obj/Debug/netcoreapp3.1/UnitTestBudgetMySpending.csprojAssemblyReference.cache
+/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/UnitTestBudgetMySpending/obj/Debug/netcoreapp3.1/UnitTestBudgetMySpending.AssemblyInfoInputs.cache
+/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/UnitTestBudgetMySpending/obj/Debug/netcoreapp3.1/UnitTestBudgetMySpending.AssemblyInfo.cs
+/Users/aggressiveghostsgmail.com/Projects/BudgetSpending/UnitTestBudgetMySpending/obj/Debug/netcoreapp3.1/UnitTestBudgetMySpending.csproj.CoreCompileInputs.cache
