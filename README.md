@@ -1,18 +1,11 @@
-# AspNetCoreMvc_Budgeting_App
+# Budget Spending MVC
+> CSSE-1806K 
 
-Budgeting application let users to keep their monthly budget in balance by managing their income and expenses.
-There is an option to delete and edit expenses as well.
+International Information Technology University / Almaty
 
-<img src="Images/1.PNG">
+# Download ASP .NET CORE 3.0.1 version to run project
 
-<img src="Images/2.PNG">
-
-<img src="Images/3.PNG">
-
-<img src="Images/4.PNG">
-
-<img src="Images/5.PNG">
-
-<img src="Images/6.PNG">
-
-<img src="Images/7.PNG">
+```
+The project was made within the discipline Microsoft .NET Framework, ApplicatIon Dev FoundatIon. 
+The project allows you to keep a daily record of expenses and do analysis.
+```
